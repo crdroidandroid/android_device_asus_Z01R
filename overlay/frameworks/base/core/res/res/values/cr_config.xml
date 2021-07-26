@@ -32,7 +32,7 @@
     <bool name="config_hasVoocCharger">false</bool>
 
     <!-- Smart charging -->
-    <bool name="config_smartChargingAvailable">ture</bool>
+    <bool name="config_smartChargingAvailable">true</bool>
     <integer name="config_smartChargingBatteryLevel">80</integer>
     <integer name="config_smartChargingBatteryResumeLevel">60</integer>
     <string name="config_smartChargingSysfsNode" translatable="false">/sys/class/power_supply/battery/input_suspend</string>
@@ -52,7 +52,7 @@
     <string name="config_pocketJudgeVendorProximitySensorName"></string>
 
     <!-- Whether the device supports Smart Pixels -->
-    <bool name="config_supportSmartPixels">ture</bool>
+    <bool name="config_supportSmartPixels">true</bool>
 
     <!-- Whether to use old mobile type icons as default -->
     <bool name="config_useOldMobileIcons">false</bool>
